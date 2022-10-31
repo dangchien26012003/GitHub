@@ -1,5 +1,6 @@
 terms: N
 repository (repo): kho luu tru(thu muc)
+branch
 
 command
 
@@ -8,4 +9,5 @@ command
 - git add + namefile
 - git reset
 - git commit -m +'note'
-- git log
+- git log [--oneline]
+- git checkout + idcommit
