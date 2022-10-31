@@ -15,3 +15,7 @@ command
 - git checkout -b {name_branch} : xay dung branch rieng biet
 - git merge + <namebranch>: ghep noi branch va master
 - git branch -d + <namebranch>: xoa branch
+
+- git push + <dg dan> + <namebranch>: day project len github
+- git remote add <newname> <dg dan>:tao loi tat den duong dan
+
